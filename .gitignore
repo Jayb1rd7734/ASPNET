@@ -24,7 +24,6 @@ test-results/
 # Icon must end with two \r
 Icon
 
-
 # Thumbnails
 ._*
 
@@ -80,6 +79,8 @@ $RECYCLE.BIN/
 *.user
 *.userosscache
 *.sln.docstates
+#Added by Jay
+*appsettings.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
